@@ -1,0 +1,32 @@
+*,
+html,
+body {
+    margin :0;
+    padding:0;
+}
+
+
+
+.container{
+    margin :0;
+    padding:0;
+}
+.jumbotron{
+    background-color: #ffff;
+}
+
+.container-content{
+    padding-top: 1rem;
+    background-color: #ffed93;
+}
+
+#content-1{
+    padding-top: 5rem;
+}
+
+iframe{
+    width:500px;
+    height:400px;
+}
+
+
