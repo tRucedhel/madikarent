@@ -3,9 +3,25 @@ html,
 body {
     margin :0;
     padding:0;
+    width: 100%;
 }
 
+.navbar img {
+    height: 5rem;
+    width: auto;
+}
 
+.navbar .container a {
+    width: auto;
+}
+
+.navbar-toggler {
+    width: 6rem;
+}
+
+.navbar .collapse {
+    margin-left: 15%;
+}
 
 .container{
     margin :0;
@@ -27,6 +43,10 @@ body {
 iframe{
     width:500px;
     height:400px;
+}
+
+.whatsapp img {
+    width: 3rem;
 }
 
 
